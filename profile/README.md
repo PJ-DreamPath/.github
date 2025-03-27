@@ -1,12 +1,31 @@
-## Hi there 👋
 
-<!--
+# 🌟 DreamPath - Your Gateway to Success 🌟
 
-**Here are some ideas to get you started:**
+DreamPath는 개발자들의 취업 준비를 도와주고, 최고의 멘토링 경험을 제공하는 플랫폼입니다.  
+취업의 어려움을 극복하고, 꿈을 이루는 여정을 함께하세요!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🛠 프로젝트 정보
+- **프로젝트 이름**: DreamPath  
+- **프로젝트 목표**: 개발자들에게 취업 준비에 필요한 정보와 멘토링을 제공하여 커리어 성장을 지원합니다.
+
+---
+
+## 👥 팀원 소개
+
+| 이름       | 역할        |
+| ---------- | ----------- |
+| 김시욱     | 프로젝트 리드 |
+| 김선혜     | 프론트엔드 개발자 |
+| 홍문일     | 백엔드 개발자 |
+| 김수환     | UI/UX 디자이너 |
+| 차정민     | 데이터베이스 관리자 |
+
+우리 팀은 혁신적이고 열정적인 사람들로 구성되어, DreamPath의 성공적인 구현을 위해 힘쓰고 있습니다.  
+
+---
+
+## 💡 주요 기능
+1. **취업 준비 자료 제공**: 최신 트렌드와 취업 정보를 한곳에서!  
+2. **멘토링 플랫폼
