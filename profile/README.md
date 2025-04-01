@@ -32,20 +32,13 @@ DreamPath는 개발자들의 취업 준비를 도와주고, 최고의 멘토링 
 
 ## 💻 stack
 - **Environment**
-<img src="https://img.shields.io/badge/Java-red"/>
-<img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/intelliJ-IDEA-000000?logo=intellijidea&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/visual_studio-000000"/>
+<img src="https://img.shields.io/badge/Java-red"/> <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=ffffff"/> <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/intelliJ-IDEA-000000?logo=intellijidea&logoColor=ffffff"/> <img src="https://img.shields.io/badge/visual_studio-000000"/>
 
 - **Config**
-<img src="https://img.shields.io/badge/MyBatis-000000"/>
-<img src="https://img.shields.io/badge/OAuth-000000"/>
+<img src="https://img.shields.io/badge/MyBatis-000000"/> <img src="https://img.shields.io/badge/OAuth-000000"/>
 
 - **Development**
-<img src="https://img.shields.io/badge/spring_boot-6DB33F?logo=springboot&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/spring_boot-6DB33F?logo=springboot&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=ffffff"/>
 
 - **Communication**
 <img src="https://img.shields.io/badge/CoolSMS-orange"/>
