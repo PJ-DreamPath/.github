@@ -40,5 +40,4 @@ DreamPath는 개발자들의 취업 준비를 도와주고, 최고의 멘토링 
 - **Development** <br />
 <img src="https://img.shields.io/badge/spring_boot-6DB33F?logo=springboot&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=ffffff"/>
 
-- **Communication** <br />
-<img src="https://img.shields.io/badge/CoolSMS-orange"/>
+- **Communication** <br /> <img src="https://img.shields.io/badge/CoolSMS-orange"/>
